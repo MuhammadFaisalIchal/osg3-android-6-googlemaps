@@ -32,9 +32,3 @@ In this branch, add API Google Maps Place Search restaurant in Bandung with radi
 </pre>
 
 In this branch, add API Google Maps for Place Picker
-
-## Author
-
-* **R Rifa Fauzi Komara**
-
-Don't forget to follow and ★
